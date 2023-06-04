@@ -12,6 +12,7 @@ public class FizzBuzz {
             result = "Fizz";
         }
 
+
         return result;
     }
 }
