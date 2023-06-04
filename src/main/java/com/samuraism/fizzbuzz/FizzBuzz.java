@@ -9,9 +9,9 @@ public class FizzBuzz {
 
     public static String fizzBuzz(int number) {
         String result = String.valueOf(number);
-        if (number %3==0) {
-            result = "Fizz";
-        }
+//        if (number %3==0) {
+//            result = "Fizz";
+//        }
         return result;
     }
 }
