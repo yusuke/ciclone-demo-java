@@ -8,7 +8,7 @@ public class FizzBuzz {
     }
 
     public static String fizzBuzz(int number) {
-        String result = "";
+        String result = String.valueOf(number);
         return result;
     }
 }
