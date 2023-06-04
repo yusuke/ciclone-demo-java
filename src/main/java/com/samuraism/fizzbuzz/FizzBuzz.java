@@ -8,6 +8,7 @@ public class FizzBuzz {
     }
 
     public static String fizzBuzz(int number) {
-        return null;
+        String result = "";
+        return result;
     }
 }
