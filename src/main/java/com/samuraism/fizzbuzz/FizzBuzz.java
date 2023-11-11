@@ -11,6 +11,8 @@ public class FizzBuzz {
         if (canBeDividedByThree(number)) {
             result += "Fizz";
         }
+
+
         return result;
     }
     private static boolean canBeDividedByThree(int number){
